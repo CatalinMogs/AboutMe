@@ -1,16 +1,12 @@
-# Catalin — Personal Website
+# My Personal Website
 
-A personal website and developer portfolio I built from scratch using HTML, CSS and JavaScript.
+I built this website using HTML and CSS.
 
-## Website
+The website has:
 
-The website includes:
+1. Who am I? (About Me)
+2. My HackClub journey
+3. My projects
+4. Contact me
 
-- **Home** — A short introduction.
-- **About** — A little more about me.
-- **Projects** — My current and future projects.
-- **Contact** — Ways to get in touch.
-
-  Enter the website here: <a href="https://catalinbuilds.dev">Click me!</a>
-
-Made with love by **Catalin**.
+The website: <a href="https://catalinbuilds.dev">My Website</a>
